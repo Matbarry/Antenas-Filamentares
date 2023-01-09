@@ -1,4 +1,4 @@
-# Antenas-Filamentares
+# Antenas-Filamentares-Loop
 
 Um relatório analisando uma antena filamentar e uma loop, através do software Ansys Eletronic.
 
